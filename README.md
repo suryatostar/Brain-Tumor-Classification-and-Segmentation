@@ -1,8 +1,3 @@
-Thanks for the update! Here's a **GitHub-compatible `README.md` file** (not `.txt`—`.md` is the standard for GitHub) that includes proper formatting, author attribution, and is ready for direct use in your GitHub repository.
-
----
-
-### ✅ GitHub-Compatible `README.md` (Copy & paste into your repo)
 
 ```markdown
 # 🧠 Brain Tumor Detection and Classification with GUI
