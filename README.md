@@ -94,14 +94,6 @@ python app.py
 
 ---
 
-## 📷 Sample Outputs
-
-| Original                               | Binary | Segmented | Highlighted |
-| -------------------------------------- | ------ | --------- | ----------- |
-| *(Add images here for better visuals)* |        |           |             |
-
----
-
 ## 👨‍💻 Author
 
 **Surya Narayan Sahoo**
